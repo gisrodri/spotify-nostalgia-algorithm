@@ -4,7 +4,7 @@
 
 A comprehensive data analysis exploring the relationship between musical nostalgia and streaming behavior using 586K+ Spotify tracks. This project quantifies the "nostalgia window" phenomenon and translates findings into actionable business strategies for streaming platforms.
 
-![Nostalgia Window Analysis](nostalgia_window_analysis.png)
+![Nostalgia Window Analysis](nostalgia_echo_analysis.png)
 
 ## 🔍 Key Findings
 
